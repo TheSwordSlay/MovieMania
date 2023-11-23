@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movie Mania</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_about_screen">AboutScreen</string>
+</resources>
